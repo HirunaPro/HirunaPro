@@ -12,14 +12,13 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=HirunaPro&show_icons=true&count_private=true)  
+
 ![Profile views](https://gpvc.arturio.dev/HirunaPro)  
-![GitHub streak stats](https://streak-stats.demolab.com/?user=HirunaPro)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HirunaPro)](https://github.com/anuraghazra/github-readme-stats)
+<!-- ![GitHub streak stats](https://streak-stats.demolab.com/?user=HirunaPro) -->  
+
 ![GitHub metrics](https://metrics.lecoq.io/HirunaPro)  
 
 
