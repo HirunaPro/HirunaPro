@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 
 ![Profile views](https://gpvc.arturio.dev/HirunaPro)  
-<!-- ![GitHub streak stats](https://streak-stats.demolab.com/?user=HirunaPro) -->  
+<!-- ![GitHub streak stats](https://streak-stats.demolab.com/?user=HirunaPro) 
 
-![GitHub metrics](https://metrics.lecoq.io/HirunaPro)  
+![GitHub metrics](https://metrics.lecoq.io/HirunaPro)  -->
 
 
 
