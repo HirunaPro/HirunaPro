@@ -1,28 +1,49 @@
-### Hi there 👋
-Welcome to my Github Profile.
+# Hi there, I'm Hiruna 👋
 
+Welcome to my GitHub home page!  
 
-<!--
-**HirunaPro/HirunaPro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Senior Software Architect and Engineer** with over **10 years of industry experience** in designing, developing, and maintaining complex software systems.  
 
-Here are some ideas to get you started:
+Here, you'll find some of my personal and professional projects, experiments, and contributions in software development, cloud computing, DevOps, and web application architecture.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+---
 
+## 🔭 What I’m working on
+- Developing and maintaining **enterprise-level Blazor Web Apps**.
+- Working on **automation, DevOps pipelines, and cloud solutions**.
+- Experimenting with **ReactJS, Node.js, and MERN stack projects**.
+- Building my **AI-powered agent orchestration system** - *AgeOch*.
 
-<!-- 
-![Profile views](https://gpvc.arturio.dev/HirunaPro)  
-![GitHub streak stats](https://streak-stats.demolab.com/?user=HirunaPro) 
+---
 
-![GitHub metrics](https://metrics.lecoq.io/HirunaPro)  -->
+## 🌱 Currently Learning
+- Kubernetes for hybrid cloud deployments.
+- Advanced ReactJS and front-end architectures.
+- Modern software design patterns and scalable cloud solutions.
 
+---
 
+## 💻 Technologies & Tools
+- **Languages:** C#, JavaScript/TypeScript, Python
+- **Frameworks:** .NET 9, Blazor, ReactJS, Node.js
+- **Cloud & DevOps:** Azure, Docker, GitHub Actions, CI/CD pipelines
+- **Databases:** SQL Server, NoSQL
+- **Others:** Agile/Scrum, Microservices, Monitoring & Logging (Grafana)
 
+---
 
+## 📂 Explore My Projects
+- [Workspace](https://github.com/hiruna/workspace) – Multi-feature intranet web app with Blazor.
+- [AgeOch](https://github.com/hiruna/ageoch) – AI agent orchestration platform.
+- Other experimental projects in **React, Node.js, and Cloud DevOps**.
+
+---
+
+## 📫 Connect with Me
+- Website: [hiruna.pro](https://hiruna.pro)
+- LinkedIn: [linkedin.com/in/hirunapro](https://linkedin.com/in/hirunapro)
+- Email: hello@hiruna.pro
+
+---
+
+Thanks for visiting my GitHub! Feel free to explore, star, and contribute to any of my public repositories.
